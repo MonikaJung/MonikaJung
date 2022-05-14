@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Monika
 - 👀 I’m interested in programming languages and data bases
 - 🌱 I’m currently studing at Wroclaw University of Science and Technology in the field of study of Applied Computer Science
-- 
